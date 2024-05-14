@@ -1,0 +1,22 @@
+{
+  "name": "tea-cup-get-point",
+  "version": "1.0.0",
+  "description": "kiem diem tea ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salive16509/tea-cup-get-point.git"
+  },
+  "keywords": [
+    "testnet"
+  ],
+  "author": "salive16509",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salive16509/tea-cup-get-point/issues"
+  },
+  "homepage": "https://github.com/salive16509/tea-cup-get-point#readme"
+}
